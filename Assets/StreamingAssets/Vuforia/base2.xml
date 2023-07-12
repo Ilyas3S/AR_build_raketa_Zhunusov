@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="cosmodrom" size="1.000000 1.064677" />
+    <ImageTarget name="part2" size="1.000000 0.809079" />
+    <ImageTarget name="part3" size="1.000000 0.653333" />
+    <ImageTarget name="part1" size="1.000000 1.295707" />
+  </Tracking>
+</QCARConfig>

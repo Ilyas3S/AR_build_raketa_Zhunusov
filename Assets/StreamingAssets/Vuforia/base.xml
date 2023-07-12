@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="varan" size="1.000000 0.348633" />
+    <ImageTarget name="home" size="1.000000 1.000000" />
+    <ImageTarget name="hidE2KIO3B8" size="1.000000 1.784314" />
+    <ImageTarget name="raketa" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
